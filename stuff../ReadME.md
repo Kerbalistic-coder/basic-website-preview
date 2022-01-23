@@ -1,0 +1,1 @@
+this is a basic website  if you want you can use this as a beginer template 
